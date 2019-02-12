@@ -1,0 +1,66 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "first_name": "Tom",
+            "last_name": "Brady",
+            "job_title": "6 Time Champ",
+            "departmentId": 1,
+            "computerId":2
+        },
+        {
+            "id": 2,
+            "first_name": "Michael",
+            "last_name": "Jordan",
+            "job_title": "Savior of the Planet",
+            "departmentId": 2,
+            "computerId":1
+        },
+        {
+            "id": 3,
+            "first_name": "Lebron",
+            "last_name": "James",
+            "job_title": "King",
+            "departmentId": 3,
+            "computerId": 2
+        },
+        {
+            "id": 1,
+            "first_name": "Nick",
+            "last_name": "Foles",
+            "job_title": "Greatest Backup QB Ever",
+            "departmentId": 4,
+            "computerId": 1
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "dept_name": "New England Office"
+        },
+        {
+            "id": 2,
+            "dept_name": "Space Jam Office"
+        },
+        {
+            "id": 3,
+            "dept_name": "Los Angeles Office"
+        },
+        {
+            "id": 4,
+            "dept_name": "Philadelphia Office"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "make": "Dell",
+            "model": "XPS-15"
+        },
+        {
+            "id": 2,
+            "make": "Apple",
+            "model": "MacBook Pro"
+        }
+    ]
+}
